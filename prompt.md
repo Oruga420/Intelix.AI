@@ -1,0 +1,1 @@
+uses agents.md for instructions use Intelix.AI_Resume for the resume
