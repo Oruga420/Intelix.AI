@@ -141,12 +141,6 @@ export default function Home() {
               <button className="button" onClick={handleDownloadPdf}>
                 Download as PDF
               </button>
-              <a
-                className="button secondary"
-                href="mailto:alex@seshwithfriends.org"
-              >
-                Email Alejandro
-              </a>
             </div>
           </div>
           <div className="contact-card">
